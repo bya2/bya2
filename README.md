@@ -12,7 +12,7 @@ Front-end is so very fun.
   <mark>😎 Primary 😎</mark><br>
 </h3>
 <p align="center">
-  I studied for more than a year.<br>
+  <b>I studied for more than a year.</b><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1D?style=flat-square&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 </p>
