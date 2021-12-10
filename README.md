@@ -70,7 +70,7 @@ Front-end is so very fun.
 
 <hr>
 
-## How to connect Bya2👀
+### How to connect Bya2 👀
 
 ```
 Email: byaa1972@gmail.com
