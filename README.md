@@ -57,9 +57,10 @@ Front-end is so very fun.
 
 <h3 align="center">
   <mark>ETC...</mark><br>
-  I learned it at school and still know how to use it.
 </h3>
 <p align="center">
+  I learned it at school and still know how to use it.
+  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
