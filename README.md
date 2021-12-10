@@ -9,7 +9,7 @@ Front-end is so very fun.
 <hr>
 
 <h3 align="center">
-  <mark>😎Primary😎</mark><br>
+  <mark>😎 Primary 😎</mark><br>
 </h3>
 <p align="center">
   I studied for more than a year.<br>
@@ -18,7 +18,7 @@ Front-end is so very fun.
 </p>
 
 <h3 align="center">
-  <mark>🙂Interestingly or Often use🙂</mark><br>
+  <mark>🙂 Interestingly or Often use 🙂</mark><br>
 </h3>
 <p align="center">
   Recently, I have been practicing with interest.<br>
@@ -36,11 +36,10 @@ Front-end is so very fun.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Mongo-47A248?style=flat-square&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
-  <img src="">
 </p>
 
 <h3 align="center">
-  <mark>😋Low-Medium Proficiency😋</mark><br>
+  <mark>😋 Low-Medium Proficiency 😋</mark><br>
 </h3>
 <p align="center">
   At least, I've read documents or used them.<br>
