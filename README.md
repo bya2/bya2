@@ -9,7 +9,7 @@ Front-end is so very fun.
 <hr>
 
 <h3 align="center">
-  <b>Primary😎</b><br>
+  <mark>Primary😎</mark><br>
   I studied for more than a year.
 </h3>
 <p align="center">
@@ -18,7 +18,7 @@ Front-end is so very fun.
 </p>
 
 <h3 align="center">
-  <b>Interestingly or Often use🙂</b><br>
+  <mark>Interestingly or Often use🙂</mark><br>
   Recently, I have been practicing with interest.<br>
   or<br>
   Often use
@@ -40,7 +40,7 @@ Front-end is so very fun.
 </p>
 
 <h3 align="center">
-  <b>Low-Medium Proficiency😋</b><br>
+  <mark>Low-Medium Proficiency😋</mark><br>
   At least, I've read documents or used them.
 </h3>
 <p align="center">
@@ -57,7 +57,7 @@ Front-end is so very fun.
 </p>
 
 <h3 align="center">
-  <b>ETC...</b><br>
+  <mark>ETC...</mark><br>
   I learned it at school and still know how to use it.
 </h3>
 <p align="center">
@@ -70,7 +70,7 @@ Front-end is so very fun.
 
 <hr>
 
-## How to connect Bya2
+## How to connect Bya2👀
 
 ```
 Email: byaa1972@gmail.com
