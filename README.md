@@ -1,20 +1,24 @@
 ### Hi there 👋
 
-I'm Bya2(Jinhyeong Lee) living in Chungju.  
-I used to practice the back-end, but I've recently been studying the front-end.  
+```
+I'm Bya2(Jinhyeong Lee) living in Chungju.
+I used to practice the back-end, but I've recently been studying the front-end.
 Front-end is so very fun.
+```
 
 <hr>
 
-<h2 align="center">Primary😎</h2>
-<h3 align="center">I studied for more than a year.</h3>
+<h3 align="center">
+  <b>Primary😎</b><br>
+  I studied for more than a year.
+</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1D?style=flat-square&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 </p>
 
-<h2 align="center">Partially or Often use🙂</h2>
 <h3 align="center">
+  <b>Interestingly or Often use🙂</b><br>
   Recently, I have been practicing with interest.<br>
   or<br>
   Often use
@@ -35,8 +39,8 @@ Front-end is so very fun.
   <img src="">
 </p>
 
-<h2 align="center">Low-Medium Proficiency😋</h2>
 <h3 align="center">
+  <b>Low-Medium Proficiency😋</b><br>
   At least, I've read documents or used them.
 </h3>
 <p align="center">
@@ -52,8 +56,8 @@ Front-end is so very fun.
   <img src="https://img.shields.io/badge/Google_CloudPlatform-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white">
 </p>
 
-<h2 align="center">ETC...</h2>
 <h3 align="center">
+  <b>ETC...</b><br>
   I learned it at school and still know how to use it.
 </h3>
 <p align="center">
