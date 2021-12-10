@@ -21,9 +21,11 @@ Front-end is so very fun.
   <mark>🙂 Interestingly or Often use 🙂</mark><br>
 </h3>
 <p align="center">
+  <b>
   Recently, I have been practicing with interest.<br>
   or<br>
   Often use<br>
+  </b>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
@@ -42,7 +44,9 @@ Front-end is so very fun.
   <mark>😋 Low-Medium Proficiency 😋</mark><br>
 </h3>
 <p align="center">
+  <b>
   At least, I've read documents or used them.<br>
+  </b>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
   <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
@@ -59,7 +63,9 @@ Front-end is so very fun.
   <mark>ETC...</mark><br>
 </h3>
 <p align="center">
+  <b>
   I learned it at school and still know how to use it.
+  </b>
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
