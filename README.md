@@ -4,6 +4,7 @@
 I'm Bya2(Jinhyeong Lee) living in Chungju.
 I used to practice the back-end, but I've recently been studying the front-end.
 Front-end is so very fun.
+I want to be a front-end developer.
 ```
 
 ---
@@ -20,6 +21,7 @@ I studied for more than a year.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1D?style=flat-square&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 </p>
+
 ## Interestingly or Often use 🙂
 
 ```
