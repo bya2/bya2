@@ -58,6 +58,7 @@ At least, I've read documents or used them.
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
   <img src="https://img.shields.io/badge/Google_CloudPlatform-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white">
 </p>
+
 ### ETC...
 
 ```
@@ -71,6 +72,7 @@ I learned it at school and still know how to use it.
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 </p>
+
 ---
 
 ## How to connect Bya2 👀
