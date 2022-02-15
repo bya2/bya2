@@ -80,7 +80,6 @@ I learned it at school and still know how to use it.
 ## How to connect Bya2 👀
 
 ```
-Email: byaa1972@gmail.com
-Kakaotalk ID: w1972
-Blog: https://bya2.github.io/
+이메일: byaa1972@gmail.com
+카카오톡 아이디: w1972
 ```
