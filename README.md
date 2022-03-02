@@ -1,15 +1,11 @@
-### Hi there 👋
+### 안녕하세요. 😁
 
-```
-I'm Bya2(Jinhyeong Lee) living in Chungju.
-I used to practice the back-end, but I've recently been studying the front-end.
-Front-end is so very fun.
-I want to be a front-end developer.
-```
+프론트엔드 개발자를 목표로 하고 있는 이진형이라고 합니다.  
+사용자와 상호작용할 수 있는 인터페이스를 구현하고 싶습니다.
 
 ---
 
-# 🦾Tech
+# 🦾Skill
 
 ## Primary 😎
 
