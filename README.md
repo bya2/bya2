@@ -7,7 +7,8 @@
 
 ## 🦾 Skills
 
-- Front-End: <p>
+- Front-End:
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SASS&logoColor=white">
@@ -20,20 +21,23 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
 </p>
 
-- Back-End: <p>
+- Back-End:
+<p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
 </p>
 
-- Database: <p>
+- Database:
+<p>
 <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Mongo-47A248?style=flat-square&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
 </p>
 
-- ETC: <p>
+- ETC:
+<p>
 <img src="https://img.shields.io/badge/Git-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
 <img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
